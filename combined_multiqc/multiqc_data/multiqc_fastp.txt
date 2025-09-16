@@ -1,0 +1,4 @@
+Sample	command
+SRR11235070_1	fastp -i data/SRR11235070_1.fastq -I data/SRR11235070_2.fastq -o trimmed/SRR11235070_1.trim.fastq -O trimmed/SRR11235070_2.trim.fastq --detect_adapter_for_pe -q 20 -u 30 -l 50 -w 8 -h qc_reports/SRR11235070_fastp.html -j qc_reports/SRR11235070_fastp.json 
+SRR1928200_1	fastp -i data/SRR1928200_1.fastq -I data/SRR1928200_2.fastq -o trimmed/SRR1928200_1.trim.fastq -O trimmed/SRR1928200_2.trim.fastq --detect_adapter_for_pe -q 20 -u 30 -l 50 -w 8 -h qc_reports/SRR1928200_fastp.html -j qc_reports/SRR1928200_fastp.json 
+SRR29384292_1	fastp -i data/SRR29384292_1.fastq -I data/SRR29384292_2.fastq -o trimmed/SRR29384292_1.trim.fastq -O trimmed/SRR29384292_2.trim.fastq --detect_adapter_for_pe -q 20 -u 30 -l 50 -w 8 -h qc_reports/SRR29384292_fastp.html -j qc_reports/SRR29384292_fastp.json 

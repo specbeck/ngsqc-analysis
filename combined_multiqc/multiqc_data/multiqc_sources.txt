@@ -1,0 +1,10 @@
+Module	Section	Sample Name	Source
+fastp	all_sections	SRR29384292_1	/home/specbeck/Desktop/sem3/oms/ngs/qc_reports/SRR29384292_fastp.json
+fastp	all_sections	SRR1928200_1	/home/specbeck/Desktop/sem3/oms/ngs/qc_reports/SRR1928200_fastp.json
+fastp	all_sections	SRR11235070_1	/home/specbeck/Desktop/sem3/oms/ngs/qc_reports/SRR11235070_fastp.json
+FastQC	all_sections	SRR1928200_1	/home/specbeck/Desktop/sem3/oms/ngs/raw_qc/SRR1928200_1_fastqc.zip
+FastQC	all_sections	SRR1928200_2	/home/specbeck/Desktop/sem3/oms/ngs/raw_qc/SRR1928200_2_fastqc.zip
+FastQC	all_sections	SRR11235070_2	/home/specbeck/Desktop/sem3/oms/ngs/qc_reports/SRR11235070_2.trim_fastqc.zip
+FastQC	all_sections	SRR29384292_1	/home/specbeck/Desktop/sem3/oms/ngs/raw_qc/SRR29384292_1_fastqc.zip
+FastQC	all_sections	SRR29384292_2	/home/specbeck/Desktop/sem3/oms/ngs/raw_qc/SRR29384292_2_fastqc.zip
+FastQC	all_sections	SRR11235070_1	/home/specbeck/Desktop/sem3/oms/ngs/qc_reports/SRR11235070_1.trim_fastqc.zip
